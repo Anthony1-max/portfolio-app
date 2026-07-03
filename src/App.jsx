@@ -230,6 +230,19 @@ function App() {
           </div>
         </section>
 
+        <section id="resume" className="section-card resume-section">
+          <div>
+            <h2>Download My CV</h2>
+            <p>
+              Recruiters can download my CV directly from the site to review my experience,
+              skills, and qualifications instantly.
+            </p>
+          </div>
+          <a className="button primary" href={resumeLink} download>
+            Download CV
+          </a>
+        </section>
+
         <section id="social" className="section-card">
           <div className="section-header">
             <h2>Connect with Me</h2>

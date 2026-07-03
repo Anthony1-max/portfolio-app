@@ -217,6 +217,18 @@ h1 {
   gap: 1.5rem;
 }
 
+.resume-section {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.resume-section p {
+  max-width: 55ch;
+  color: #cbd5e1;
+}
+
 .skills-grid {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(130px, 1fr));
