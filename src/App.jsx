@@ -55,14 +55,14 @@ const experience = [
     company: 'Lindamahle Innovation Center',
     period: '2024 - 2025',
     description: `Led and mentored students in Systems Development and Software Engineering projects, guiding them through the full software development lifecycle including system analysis, design, coding, testing, and deployment. Supervised the development of a School Inventory Management System and a Bed & Breakfast (BnB) website while providing technical support, project guidance, and practical training in programming, web development, and database concepts.`,
-    technologies: ['C#', '.NET', 'JavaScript', 'Python', 'SQL', 'Microsoft Azure', 'Power BI', 'React', 'Git'],
+    technologies: ['C#', '.NET', 'JavaScript', 'Python', 'SQL','Adobe Acrobat','Word','Outlook', 'Microsoft Azure', 'Power BI', 'React', 'Git'],
   },
   {
     role: 'Junior Sales & Technical Manager',
     company: 'Madiri Business Enterprise (Pty) Ltd',
     period: '2025 - Present',
     description: `Supported both sales and technical operations by managing RFQs (Requests for Quotations), coordinating client requirements, and contributing to systems and software development initiatives. Assisted in delivering technical solutions, preparing quotations and proposals, providing client support, and bridging business needs with technical implementation to ensure efficient service delivery and project execution.`,
-    technologies: ['C#', '.NET', 'JavaScript', 'SQL', 'Microsoft Azure', 'Power BI', 'Power Apps', 'Azure DevOps'],
+    technologies: ['C#', '.NET', 'JavaScript', 'SQL','Excel', 'Microsoft Azure', 'Power BI', 'Power Apps', 'Azure DevOps'],
   },
 ];
 
