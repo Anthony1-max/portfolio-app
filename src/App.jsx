@@ -91,6 +91,8 @@ const socialMedia = [
   { platform: 'Email', url: 'mailto:sibaanthony1@gmail.com', icon: '✉️' },
 ];
 
+const resumeLink = '/resume.pdf';
+
 function App() {
   return (
     <div className="page-shell">
