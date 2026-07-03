@@ -62,7 +62,7 @@ const experience = [
     company: 'Madiri Business Enterprise (Pty) Ltd',
     period: '2025 - Present',
     description: `Supported both sales and technical operations by managing RFQs (Requests for Quotations), coordinating client requirements, and contributing to systems and software development initiatives. Assisted in delivering technical solutions, preparing quotations and proposals, providing client support, and bridging business needs with technical implementation to ensure efficient service delivery and project execution.`,
-    technologies: ['C#', '.NET', 'JavaScript', 'SQL','Excel', 'Microsoft Azure', 'Power BI', 'Power Apps', 'Azure DevOps'],
+    technologies: ['C#', '.NET', 'JavaScript', 'SQL','Excel', 'Microsoft Azure','Microsoft Word','Microsoft Outlook','Outlook','Adobe Acrobat', 'Power BI', 'Power Apps', 'Azure DevOps'],
   },
 ];
 
