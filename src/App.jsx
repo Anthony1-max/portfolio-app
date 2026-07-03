@@ -85,7 +85,7 @@ const certifications = [
 ];
 
 const socialMedia = [
-  { platform: 'GitHub', url: 'https://github.com/sibabalwe-rayi-anthony', icon: '🔗' },
+  { platform: 'GitHub', url: 'https://github.com/Anthony1-max', icon: '🔗' },
   { platform: 'LinkedIn', url: 'https://www.linkedin.com/in/sibabalwe-rayi-anthony', icon: '💼' },
   { platform: 'Instagram', url: 'https://instagram.com/sibabalwe.rayi', icon: '📸' },
   { platform: 'Email', url: 'mailto:sibaanthony1@gmail.com', icon: '✉️' },
