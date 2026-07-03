@@ -1,4 +1,10 @@
 import profilePicture from './Proffessional pic.jpeg';
+import Header from './components/Header';
+import Hero from './components/Hero';
+import Services from './components/Services';
+import Brands from './components/Brands';
+import Stats from './components/Stats';
+import CTA from './components/CTA';
 
 const projects = [
   {
@@ -96,42 +102,12 @@ const resumeLink = '/resume.pdf';
 function App() {
   return (
     <div className="page-shell">
-      <header className="hero-section">
-        <div className="hero-content">
-          <div className="hero-copy">
-            <p className="eyebrow pulse">Full-Stack Developer</p>
-            <h1>Hi, I'm Sibabalwe Rayi.</h1>
-            <p className="hero-description">
-              Software Developer passionate about 
-              building innovative, scalable, and 
-              user-focused solutions. Experienced 
-              in C#, .NET, JavaScript, Python, SQL, 
-              Microsoft Azure, and Power BI, with a 
-              strong background in ICT solutions, 
-              system implementation, and software 
-              development. I enjoy solving complex 
-              business challenges through technology 
-              and continuously expanding my skills 
-              to deliver impactful digital solutions.
-            </p>
-            <div className="hero-actions">
-              <a className="button primary" href="#contact">
-                Work with me
-              </a>
-              <a className="button secondary" href="#projects">
-                View projects
-              </a>
-            </div>
-          </div>
-          <div className="hero-image-container">
-            <img
-              src={profilePicture}
-              alt="Sibabalwe Rayi"
-              className="hero-image"
-            />
-          </div>
-        </div>
-      </header>
+      <Header />
+      <Hero profilePicture={profilePicture} />
+      <Services />
+      <Brands />
+      <Stats />
+      <CTA />
 
       <main>
         <section id="Profile" className="section-card">
